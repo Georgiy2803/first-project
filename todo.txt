@@ -1,1 +1,5 @@
 1. Пройти пару новых **тем** по Git.1
+
+git add -all
+git commit -m
+git push
